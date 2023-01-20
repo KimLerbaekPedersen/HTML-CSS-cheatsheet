@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #959595;
+}
+
+h1, h2{
+    display: flex;
+    justify-content: center;
+    line-height: 2;
+    font-size: 45px;
+}
+
+h2 {
+    color: purple;
+}
+
